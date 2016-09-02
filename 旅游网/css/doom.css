@@ -1,0 +1,204 @@
+#box{
+	width:1000px; height:800px;
+	margin:0px auto;
+	position:relative;
+	}
+#logo{
+	height:73px;
+	width:1000px;
+	margin:0px auto;
+	position:relative;
+	}
+
+#top{
+	height:300px;
+	}
+	
+#daohang{
+	background-image: url(../imgs/daohang.jpg);
+	width: 290px;
+	height: 301px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	}
+
+a:link {text-decoration: none;}	
+a:hover{color:#F00}
+	
+#daohang li {
+		line-height:2.2;
+		font-size:24px;
+	}
+	
+#tupian{
+	background-image: url(../imgs/tupian1.jpg);
+	width: 710px;
+	height: 250px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	}
+	
+#biaoti{
+	background-image:url(../imgs/biaoti.jpg);
+	width:710px; height:50px;
+	position:absolute;
+	right:0px; top:250px;
+	}
+	
+#bottomleft{
+	background-color:#D9D9D9;
+	width: 299px;
+	height: 436px;
+	position: absolute;
+	bottom: 1px;
+	left: 4px;
+	}
+	
+#wanjiachihe{
+	width:300px; height:150px;
+	}
+
+#wanjiachihe ul li{
+	padding:2px;
+	}
+
+.timu{
+	font-size:16px;
+	color:#534242;
+	height:20px;
+	line-height:20px;
+	font-size:14px;
+	font-weight:bold;
+	padding-left:5px;}
+	
+#timu2{
+	padding:10px;}
+	
+#lvyoudujia{
+	width:300px; height:250px;
+	}
+
+#img{
+	width:280px; height:120px;};
+	
+#lvyoudujia span{
+	color:#CB2016;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	padding:5px;
+		  }
+	
+#bottomright{
+	width:670px; height:420px;
+	position:absolute;
+	right:0px; bottom:40px;
+	}
+	
+#shang{
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	width:620px; height:200px;
+	position:absolute;
+	left:25px;
+	}
+	
+#tupian1{
+	width:195px; height:195px;
+	position:absolute;
+	top:0px; left:0px;
+	background-image:url(../imgs/ouzhou.jpg);
+	}
+	
+#nbiaoti1{
+	width: 420px;
+	height: 50px;
+	position: absolute;
+	left: 200px;
+	top: 0px;
+}
+	
+#zi p span{
+	position: absolute;
+	top: -32px;
+	left: 7px;
+	color: #CB2016;
+	font-weight: bold;
+	}
+
+#zi p{
+	position: absolute;
+	top: 109px;
+	left: 215px;
+	width: 412px;
+	height: 69px;
+	}
+	
+#tu{
+	width:42px; height:16px;
+	position:absolute;
+	bottom:10px;
+	right:10px;}
+
+#xia{
+	width:620px; height:200px;
+	position:absolute;
+	top:210px;
+	right:25px;
+	}
+	
+#zi2 p span{
+	position: absolute;
+	top: -33px;
+	left: -1px;
+	color: #CB2016;
+	font-weight: bold;
+	}
+
+#zi2 p{
+	position: absolute;
+	top: 87px;
+	left: 208px;
+	width: 412px;
+	height: 69px;
+	}
+	
+#neibiaoti2{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:200px; height:50px;}	
+	
+#tupian2{
+	position:absolute;
+	width:200px;
+	height:200px;
+	top:40px;
+	left:0px;
+	background-image:url(../imgs/tiantang.jpg);
+	}
+
+#tu2{
+	width: 42px;
+	height: 16px;
+	position: absolute;
+	bottom: -13px;
+	right: 10px;
+}
+	
+#fengexian{
+	background-color: #630;
+	width: 1000px;
+	height: 5px;
+	margin: 100px auto;
+	position: absolute;
+	top: 717px;
+	left: -1px;
+	}
+
+#ying{
+	position:absolute;
+	top:830px;
+	right:20px;}
